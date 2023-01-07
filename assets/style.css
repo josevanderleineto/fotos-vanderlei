@@ -89,6 +89,10 @@ h1 {
     color: black;
     padding: 32px;
   }
+
+  #texto {
+    text-align: center;
+  }
   
   
 
